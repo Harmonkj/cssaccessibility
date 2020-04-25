@@ -1,5 +1,5 @@
-.pink{
-  color: pink;
+.tan{
+  color: tan;
 }
 .lightgray{
   color: lightgray;
@@ -7,16 +7,15 @@
 .lightgreen{
   color: lightgreen;
 }
-.impact{
-  font-family:"Impact", Charcoal, sans-serif;
+.lucida{
+  font-family:"Lucida Handwriting", cursive, serif;
 }
-.comic{
-  font-family:"Comic Sans MS", cursive, sans-serif
+.blippo{
+  font-family: "Blippo", fantasy, cursive;
 }
 .arial{
   font-family: "Arial", Helvetica, sans-serif;
 }
-.timesnewroman{
+.times{
   font-family: "Times New Roman", Times, serif;
 }
-
